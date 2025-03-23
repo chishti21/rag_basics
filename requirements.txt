@@ -1,0 +1,10 @@
+langchain
+langchain_community
+streamlit
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+unstructured
+groq
+langchain_groq
